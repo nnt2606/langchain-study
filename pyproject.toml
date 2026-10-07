@@ -1,0 +1,11 @@
+[project]
+name = "langchain-prj"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=26.10.0",
+    "isort>=9.0.2",
+    "langchain>=1.4.3",
+    "langchain-openai>=1.6.7",
+    "python-dotenv>=1.2.4",
+]
